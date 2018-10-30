@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    background-color: slategray;
+}
+
+#important-text {
+    p {
+      color: yellow;
+    }
+}
